@@ -26,6 +26,3 @@ Replace `YOUR_ETHERSCAN_API_KEY` in `GasFeeCalculator.js` with your actual Ether
 - Node.js & npm
 - Etherscan API key
 - React.js
-
-## License
-MIT
